@@ -48,7 +48,8 @@ To analyze sales performance and provide actionable insights into customer demog
           
 4. **Regional Analysis**
     - Sales performance by country and state.
-        - Countries with higher revenues (e.g., US, Australia, UK) outperformed due to effective marketing campaigns.
+        - Top-performing countries included the US, Australia, and the UK, attributed to effective marketing campaigns.
+        - Regional analyses highlighted states or provinces with lower revenues, providing areas of focus for growth strategies.
   
 
 ### Excel Tools and Features:
